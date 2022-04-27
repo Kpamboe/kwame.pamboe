@@ -1,0 +1,63 @@
+Operating Systems 
++    - Windows 
++        - Windows: 7,8,10. Server 2008-2019
++        - Mac Os: 10.6 - to 12 Monterray 
++        - Linux: Ubuntu, Kali 
++        
++Remote
++    - ConnectWise Control 
++    - Goto Assist 
++    - Teamviewer
++    - Quick Assist
++    
++Ticketing 
++    - ServiceNow 
++    - Fresh 
++    - Jira Service Desk 
++	 - Spiceworks
++    
++MDM 
++    - Cisco Meraki 
++    - Jamf
++
++Networking: LANs/WANs, TCP/IP, VoIP, DNS, HTTP, Active Directory Domain Controllers
++    - Cisco Meraki 
++		 - MR33, MR34, MR36 (Access Points)
++    - Switches 
++        - Juniper(Pending)
++    - Routers 
++        - MX65, MX68, MX68CW-WW
++    - Peplink (Cellular router) 
++    - Palo Alto firewall 
++    
++Imaging 
++    - MDT 
++    - Manage Engine OS Deployer 
++    
++Applications
++    - Microsoft Office Suite Admin (Outlook, Word, Notebook, Powerpoint, Excel, Sharepoint, Exchange, Teams) 
++    - Zoom 
++    - Skype 
++    - Slack 
++    - Salesforce 
++
++VPN
++    - Cisco Anyconnect 
++    - Forticlient 
++
++Security 
++    - Sophos 
++    - Manage Engine 
++	 - Duo 
++	 - Okta 
++    
++Cloud 
++    - Azure 
++		- Azure Blob Storage 
++		- Azure AD
++    - AWS(Pending) 
+
++Scripting 
+     - Bsh 
+     - Powershell
+     - Zsh
